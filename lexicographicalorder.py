@@ -1,4 +1,4 @@
-#!/bin/python3
+# Problem : https://www.hackerrank.com/challenges/bigger-is-greater/problem
 import math
 import os
 import random
