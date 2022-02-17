@@ -1,3 +1,3 @@
-# Hackerrank Solutions
+# My Solutions
 
-I am solving Hackerrank Problems with Python.
+I am solving problems in some platforms such as Hackerrank, Leetcode, Algoleague.
